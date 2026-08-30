@@ -1,60 +1,42 @@
 # Rafa9 Labs
 
-**Software Engineer · AI/ML · Full-Stack · Mobile**
+**Software Engineer | AI/ML | Full-Stack | Product Development**
 
-I build intelligent systems, developer tools, and product-focused applications.
-
-My work spans machine learning, backend and full-stack engineering, automation, and mobile software, with an emphasis on practical systems, clean architecture, and end-to-end product development.
+I build intelligent systems, developer tools, automation pipelines, and product-focused applications.
 
 ## Featured Work
 
 ### KodaQuant
 
-Walk-forward machine-learning research and backtesting platform for evaluating FX strategies under chronological, leakage-aware validation.
-
-`Python` · `FastAPI` · `React` · `PyTorch` · `TensorFlow` · `Docker`
-
-[View repository →](https://github.com/rafa9-labs/thesisproj)
-
----
+Walk-forward machine-learning research and backtesting platform for evaluating FX strategies with chronological validation and cost-aware execution.
 
 ### KodaPomo
 
-Pomodoro productivity dashboard designed around focused work sessions and structured productivity workflows.
+Pomodoro productivity dashboard for focused work, task planning, ambient soundscapes, and session analytics.
 
-`Tech stack to be added after repository review`
-
-Repository link coming once the public repository is ready.
-
----
+[Open the product](https://www.kodapomo.com)
 
 ### VoiceWiz
 
-Voice-focused software project built around intelligent voice interaction and automation.
+Local-first desktop dictation with local speech recognition, push-to-talk interaction, and searchable transcription history.
 
-`Tech stack to be added after repository review`
+[Open the product](https://www.voicewiz.app)
 
-Repository link coming once the public repository is ready.
+## More Projects
 
-## Other Projects
+- [YT Machine](https://github.com/rafa9-labs/yt-machine) - agentic news-to-video automation pipeline.
+- [Code Vault](https://github.com/rafa9-labs/code-vault) - VS Code developer utility for commands, snippets, functions, and notes.
 
-**YT Machine** — Automation project for YouTube-oriented workflows.  
-**Code Vault** — Developer-focused software/tooling project.
+## Inside the Lab
 
-## Currently Building
-
-**Stillness** — Mobile application · In development  
-**QuitaIsso** — Mobile application · In development  
-**AllMighty** — Mobile application · In development
+- **Stillness** - private mobile app in development
+- **QuitaIsso** - private mobile app in development
+- **AllMighty** - private mobile strategy game in development
 
 ## Technologies
 
-**Languages:** Python, TypeScript, JavaScript  
-**Backend:** FastAPI, REST APIs, WebSockets  
-**Frontend:** React  
-**AI / ML:** PyTorch, TensorFlow, scikit-learn  
-**Infrastructure:** Docker, Redis, GitHub Actions
+Python | TypeScript | React | Next.js | Electron | FastAPI | PyTorch | TensorFlow | SQLite | Docker | Ollama | LangChain | VS Code API
 
 ## Connect
 
-[Portfolio](https://rafa9-labs.com) · [Email](mailto:rafa@rafa9-labs.com)
+[Portfolio](https://www.rafa9-labs.com) | [Email](mailto:rafa@rafa9-labs.com)
