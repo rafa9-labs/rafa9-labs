@@ -1,42 +1,68 @@
-# Rafa9 Labs
+# Rafa Plamadeala
 
-**Software Engineer | AI/ML | Full-Stack | Product Development**
+**Software Engineer · Python & TypeScript · Applied AI · Developer Tools**
 
-I build intelligent systems, developer tools, automation pipelines, and product-focused applications.
+I build and ship software products, machine-learning systems, developer tools,
+and automation pipelines.
 
-## Featured Work
+_Rafa9 Labs is my personal software engineering and product lab._
+
+## Products
 
 ### KodaQuant
 
-Walk-forward machine-learning research and backtesting platform for evaluating FX strategies with chronological validation and cost-aware execution.
+Machine-learning research and backtesting platform for evaluating FX strategies
+with walk-forward validation, chronological testing, and cost-aware execution.
 
-### KodaPomo
+Currently distributed through GitHub Releases, with dedicated desktop and web
+distribution planned.
 
-Pomodoro productivity dashboard for focused work, task planning, ambient soundscapes, and session analytics.
-
-[Open the product](https://www.kodapomo.com)
+[Download the latest release](https://github.com/rafa9-labs/kodaquant-releases/releases/latest)
 
 ### VoiceWiz
 
-Local-first desktop dictation with local speech recognition, push-to-talk interaction, and searchable transcription history.
+Local-first desktop dictation application with speech recognition, push-to-talk
+workflows, and searchable transcription history.
 
-[Open the product](https://www.voicewiz.app)
+[Visit VoiceWiz](https://www.voicewiz.app)
 
-## More Projects
+### KodaPomo
 
-- [YT Machine](https://github.com/rafa9-labs/yt-machine) - agentic news-to-video automation pipeline.
-- [Code Vault](https://github.com/rafa9-labs/code-vault) - VS Code developer utility for commands, snippets, functions, and notes.
+Productivity workspace for focused work, task planning, ambient soundscapes,
+and session analytics.
 
-## Inside the Lab
+[Visit KodaPomo](https://www.kodapomo.com)
 
-- **Stillness** - private mobile app in development
-- **QuitaIsso** - private mobile app in development
-- **AllMighty** - private mobile strategy game in development
+## Open Source
 
-## Technologies
+### [YT Machine](https://github.com/rafa9-labs/yt-machine)
 
-Python | TypeScript | React | Next.js | Electron | FastAPI | PyTorch | TensorFlow | SQLite | Docker | Ollama | LangChain | VS Code API
+Agentic news-to-video automation pipeline that turns researched topics into
+rendered short-form video.
+
+**Python · Automation · AI**
+
+### [Code Vault](https://github.com/rafa9-labs/code-vault)
+
+VS Code developer utility for storing, searching, copying, and executing
+commands, snippets, functions, and notes.
+
+**TypeScript · VS Code Extension API**
+
+## Engineering Stack
+
+**Languages:** Python · TypeScript
+
+**Applications:** React · Next.js · Electron
+
+**Backend & Data:** FastAPI · SQLite
+
+**AI / ML:** PyTorch · TensorFlow · Ollama · LangChain
+
+**Engineering:** Docker · Git · GitHub Actions · CI/CD
+
+**Developer Tooling:** VS Code Extension API
 
 ## Connect
 
-[Portfolio](https://www.rafa9-labs.com) | [Email](mailto:rafa@rafa9-labs.com)
+[Portfolio](https://www.rafa9-labs.com) · [Email](mailto:rafa@rafa9-labs.com)
