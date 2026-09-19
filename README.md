@@ -1,81 +1,91 @@
-# Rafa Plamadeala
+<h1 align="center">Rafa Plamadeala</h1>
 
-**Software Engineer · Python & TypeScript · Applied AI · Developer Tools**
+<p align="center">
+  <strong>Software Engineer · Python & TypeScript · Applied AI · Developer Tools</strong>
+</p>
 
-I build and ship software products, machine-learning systems, developer tools,
-and automation pipelines.
+<p align="center">
+  I build and ship software products, machine-learning systems,
+  developer tools, and automation pipelines.
+</p>
 
-_Rafa9 Labs is my personal software engineering and product lab._
+---
 
-[**Engineering Portfolio**](https://www.rafa9-labs.com) · [Email](mailto:rafa@rafa9-labs.com)
+## Portfolio
 
-## Engineering Portfolio
+### [Rafa9 Labs →](https://www.rafa9-labs.com)
 
-**[rafa9-labs.com →](https://www.rafa9-labs.com)**
+My engineering portfolio with detailed case studies covering system architecture,
+technical decisions, trade-offs, screenshots, and the engineering behind my products.
 
-Detailed engineering case studies covering architecture, technical decisions,
-trade-offs, screenshots, and the problems behind my products.
+---
 
 ## Products
 
 ### KodaQuant
 
-Machine-learning research and backtesting platform for evaluating FX strategies
-with walk-forward validation, chronological testing, and cost-aware execution.
+Local-first desktop FX research and backtesting application with walk-forward
+validation, chronological testing, cost-aware execution, and machine-learning
+model evaluation.
 
-Currently distributed through GitHub Releases, with dedicated desktop and web
-distribution planned.
+**Python · FastAPI · React · TypeScript**
 
-[Download the latest release](https://github.com/rafa9-labs/kodaquant-releases/releases/latest) ·
-[Engineering details](https://www.rafa9-labs.com/projects/kodaquant)
+[Download the latest release →](https://github.com/rafa9-labs/kodaquant-releases/releases/latest)
 
 ### VoiceWiz
 
-Local-first desktop dictation application with speech recognition, push-to-talk
-workflows, and searchable transcription history.
+Desktop voice-to-work application that turns natural speech into contextual,
+ready-to-use text for programming, writing, research, and communication.
 
-[Visit VoiceWiz](https://www.voicewiz.app) ·
-[Engineering details](https://www.rafa9-labs.com/projects/voicewiz)
+**Electron · React · TypeScript · Vite**
+
+[Visit VoiceWiz →](https://www.voicewiz.app)
 
 ### KodaPomo
 
-Productivity workspace for focused work, task planning, ambient soundscapes,
-and session analytics.
+Productivity workspace built around focused work sessions, task planning,
+ambient soundscapes, and session analytics.
 
-[Visit KodaPomo](https://www.kodapomo.com) ·
-[Engineering details](https://www.rafa9-labs.com/projects/kodapomo)
+**Next.js · React · TypeScript · Zustand**
+
+[Visit KodaPomo →](https://www.kodapomo.com)
+
+---
 
 ## Open Source
 
-### [YT Machine](https://github.com/rafa9-labs/yt-machine)
+### [YT Machine →](https://github.com/rafa9-labs/yt-machine)
 
-Agentic news-to-video automation pipeline that turns researched topics into
-rendered short-form video.
+Configurable news-to-video automation pipeline combining research,
+script generation, local voice and visuals, and automated rendering.
 
-**Python · Automation · AI**
+**Python · AI · Automation**
 
-### [Code Vault](https://github.com/rafa9-labs/code-vault)
+### [Code Vault →](https://github.com/rafa9-labs/code-vault)
 
-VS Code developer utility for storing, searching, copying, and executing
-commands, snippets, functions, and notes.
+VS Code developer utility for storing, organising, searching, copying,
+and executing reusable commands, snippets, functions, and notes.
 
-**TypeScript · VS Code Extension API**
+**TypeScript · VS Code API · Node.js · Webpack**
 
-## Engineering Stack
+---
 
-**Languages:** Python · TypeScript
+## Tech Stack
 
-**Applications:** React · Next.js · Electron
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py,ts,react,nextjs,electron,fastapi,pytorch,tensorflow,sqlite,docker,git,githubactions,vscode&perline=13"
+    alt="Python, TypeScript, React, Next.js, Electron, FastAPI, PyTorch, TensorFlow, SQLite, Docker, Git, GitHub Actions, VS Code"
+  />
+</p>
 
-**Backend & Data:** FastAPI · SQLite
+<p align="center">
+  <strong>Also working with:</strong>
+  Ollama · LangChain · CI/CD · VS Code Extension API
+</p>
 
-**AI / ML:** PyTorch · TensorFlow · Ollama · LangChain
+---
 
-**Engineering:** Docker · Git · GitHub Actions · CI/CD
+## Contact
 
-**Developer Tooling:** VS Code Extension API
-
-## Connect
-
-[Portfolio](https://www.rafa9-labs.com) ·
-[Email](mailto:rafa@rafa9-labs.com)
+**Email:** [rafa@rafa9-labs.com](mailto:rafa@rafa9-labs.com)
