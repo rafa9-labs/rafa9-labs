@@ -18,7 +18,6 @@
 My engineering portfolio with detailed case studies covering system architecture,
 technical decisions, trade-offs, screenshots, and the engineering behind my products.
 
----
 
 ## Products
 
@@ -50,7 +49,6 @@ ambient soundscapes, and session analytics.
 
 [Visit KodaPomo →](https://www.kodapomo.com)
 
----
 
 ## Open Source
 
